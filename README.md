@@ -19,9 +19,9 @@ bokeh serve --show Interactive_Map_AzimuthLines.py
 
 ## Authors
 
-Veronica Guzman 
-https://twitter.com/verovaleg
-Francisco Grisanti 
+* Veronica Guzman 
+ https://twitter.com/verovaleg
+* Francisco Grisanti 
 https://github.com/franciscogrisanti
 
 ## Acknowledgments
